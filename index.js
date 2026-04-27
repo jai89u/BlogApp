@@ -23,6 +23,8 @@ app.listen(PORT,()=>{
 })
 
 
+console.log("jihiw")
+
 
 app.get("/",(req,res)=>{
     res.send("This is Home page")
